@@ -15,6 +15,6 @@ let state
 // undefined => not initialized variable, it is like a placeholder for data that will be assigned later
 // symbol => unique
 
-// object
+// objec    t
 
 console.log(typeof "mainak");
